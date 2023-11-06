@@ -1,11 +1,7 @@
-# portfolioMk1
-Welcome to my portfolio. This is a collection and showcase of my work and detailed descriptions of my achievements and completed projects - kept up to date. You can find 
-
-Certainly, here's an updated description that subtly implies your versatility beyond healthcare:
-
 **CV's Data Expert Portfolio - Transforming Healthcare A Bit at a Time.**
 
-Welcome to the github part of my Portfolio, where I document my journey as a data expert with a focus on healthcare, among other critical domains. 
+Welcome to the Github part of my Portfolio, where I document and showcase my journey as a data expert with a focus on healthcare, among other critical domains. 
+I intend this to be a collection and showcase of my work and detailed descriptions of my achievements and completed projects - kept up to date.
 With a blend of statistical expertise, data analysis, and a dash of data science, 
 I'm committed to leveraging the power of data to make significant contributions to healthcare and beyond.
 
